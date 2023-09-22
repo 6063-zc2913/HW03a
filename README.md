@@ -1,5 +1,9 @@
 # p5.js Template
 
+Two kinds of circles, one large and one small
+Large one start with xpos = 0, small one start with the middle between the two large cilcles, which should be xpos = 15. 
+
+
 This is a README file that can be used to describe and document your assignment.
 
 Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
